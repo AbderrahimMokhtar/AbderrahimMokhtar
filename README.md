@@ -85,12 +85,9 @@ print(me)
  
 ### 🎯 Right Now
 ```
-→ Completing CSS mastery
-→ Building Full-Stack projects
+→ Learning to be Full-stack dev (odin project)
 → Studying C & x86 Assembly
-→ Exploring Windows Internals
 → Preparing for first CTF
-→ Understanding malware behavior
 ```
  
 </td>
@@ -228,7 +225,6 @@ BEGINNER ───────────────────────�
  
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=120&section=footer&text=Keep+Building.+Keep+Breaking.+%F0%9F%94%90&fontSize=18&fontColor=00d4ff&animation=fadeIn&fontAlignY=65)
  
-*"The quieter you become, the more you are able to hear." — Kali Linux*
  
 </div>
  
