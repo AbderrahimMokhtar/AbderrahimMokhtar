@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=AbderrahimMokhtar)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=AbderrahimMokhtar)](https://github.com/AbderrahimMokhtar/github-profile-trophy)
 
 
 https://github-profile-trophy.vercel.app/?username=AbderrahimMokhtar&theme=gruvbox
