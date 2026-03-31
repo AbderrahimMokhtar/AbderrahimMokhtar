@@ -35,5 +35,5 @@ Here are some ideas to get you started:
 
 <!-- Streak Counter (like image 6 — the fire streak!) -->
 [![GitHub Streak](https://streak-stats.demolab.com?user=AbderrahimMokhtar&theme=tokyonight)](https://git.io/streak-stats)
-
+[![Youb's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AbderrahimMokhtar&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
