@@ -20,9 +20,7 @@ Here are some ideas to get you started:
  
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&random=false&width=600&lines=CS+Student+%40+ESTIN+%F0%9F%8E%93;Aspiring+Full-Stack+Developer+%F0%9F%9A%80;Cybersecurity+Enthusiast+%F0%9F%94%90;Reverse+Engineering+Explorer+%F0%9F%94%8D;CTF+Player+in+Training+%E2%9A%94%EF%B8%8F;Problem+Solver+by+Nature+%F0%9F%A7%A0)](https://git.io/typing-svg)
  
-![Profile Views](https://komarev.com/ghpvc/?username=AbderrahimMokhtar&color=00d4ff&style=flat-square&label=Profile+Views)
-[![GitHub followers](https://img.shields.io/github/followers/AbderrahimMokhtar?color=00d4ff&style=flat-square&logo=github&label=Followers)](https://github.com/AbderrahimMokhtar)
- 
+
 </div>
  
 ---
