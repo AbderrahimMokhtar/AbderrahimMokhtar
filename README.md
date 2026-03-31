@@ -36,5 +36,4 @@ Here are some ideas to get you started:
 [![GitHub Streak](https://streak-stats.demolab.com?user=AbderrahimMokhtar&theme=tokyonight)](https://git.io/streak-stats)
 [![Youb's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AbderrahimMokhtar&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&
-color=00F7FF&width=435&lines=Full-Stack+Developer;Problem+Solver;Always+Learning)](https://git.io/typing-svg)
+
