@@ -187,6 +187,5 @@ SIDE QUESTS ━━━━━━━━━━━━━━━━━━━━━━�
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=120&section=footer&text=Keep+Learning.+Keep+Building.+%F0%9F%9A%80&fontSize=18&fontColor=00d4ff&animation=fadeIn&fontAlignY=65)
 
-*"First, solve the problem. Then, write the code." — John Johnson*
 
 </div>
