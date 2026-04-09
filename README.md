@@ -70,37 +70,7 @@
 
 ---
 
-## 📊 Skill Progress Bars
 
-> *Honest self-assessment — updated monthly*
-
-#### 🌐 Web & Frontend
-```
-HTML          ████████████████████░░  90%  ✅ Completed
-CSS           ████████░░░░░░░░░░░░░░  35%  📖 Currently Learning
-JavaScript    ██████░░░░░░░░░░░░░░░░  28%  🔄 In Progress
-React         ███░░░░░░░░░░░░░░░░░░░  10%  🔜 Next
-Node.js       ██░░░░░░░░░░░░░░░░░░░░  08%  🔜 Coming Soon
-```
-
-#### 🔧 Tools & General
-```
-Git/GitHub    ███████████░░░░░░░░░░░  50%  ✅ Confident
-Python        ████████████░░░░░░░░░░  50%  🔄 Growing
-Bash/Linux    ████████░░░░░░░░░░░░░░  40%  🔧 Comfortable
-```
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=AbderrahimMokhtar&theme=darkhub&no-frame=true&no-bg=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
 
 ## 📈 GitHub Stats
 
