@@ -23,30 +23,7 @@
 
 ---
 
-## 👾 About Me
 
-```python
-class AbderrahimMokhtar:
-    def __init__(self):
-        self.name        = "Abderrahim Mokhtar"
-        self.school      = "ESTIN — Computer Science"
-        self.role        = "Aspiring Full-Stack Developer"
-        self.location    = "Algeria 🇩🇿"
-        self.languages   = ["JavaScript", "Python", "HTML", "CSS"]
-        self.stack       = ["HTML ✅", "CSS 📖 (learning)", "JS", "React", "Node.js"]
-        self.drives_me   = ["Problem Solving", "Building Real Products", "Clean Code"]
-
-    def current_mission(self):
-        return "Learn CSS → Master JS → Build Full-Stack Projects 🚀"
-
-    def __str__(self):
-        return "Turning ideas into products, one line at a time."
-
-me = AbderrahimMokhtar()
-print(me)
-```
-
----
 
 ## ⚙️ What Drives Me
 
@@ -152,40 +129,3 @@ Bash/Linux    ████████░░░░░░░░░░░░░░
 
 ---
 
-## 🎯 2025 Quest Log
-
-```
-MAIN QUEST ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-  [▓▓▓▓▓▓░░░░░░░░░] 40%  Master Full-Stack Development
-
-SIDE QUESTS ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-  [✅] Complete HTML                              DONE
-  [▓▓▓░░░░░░░░░░░░] 20%  Master CSS
-  [ ] Build first full-stack project              LOCKED 🔒
-  [ ] Deploy a live web app                       LOCKED 🔒
-  [ ] Build a REST API with Node.js               LOCKED 🔒
-  [ ] Create first React project                  LOCKED 🔒
-  [ ] Reach 100 GitHub contributions              IN PROGRESS 🔥
-  [ ] Get first GitHub star on a project          LOCKED 🔒
-```
-
----
-
-## 📫 Connect With Me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abderrahim-mokhtar)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abderrahim@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AbderrahimMokhtar)
-
-</div>
-
----
-
-<div align="center">
-
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=120&section=footer&text=Keep+Learning.+Keep+Building.+%F0%9F%9A%80&fontSize=18&fontColor=00d4ff&animation=fadeIn&fontAlignY=65)
-
-
-</div>
